@@ -1,4 +1,4 @@
-# 🛒 AkgülShopHub - Premium E-Ticaret Uygulaması
+# 🛒 AkgülShop - Premium E-Ticaret Uygulaması
 
 AkgülShopHub, kullanıcı dostu ve modern tasarıma sahip, sadece frontend ile çalışan bir e-ticaret web uygulamasıdır. Kullanıcılar ürünleri inceleyebilir, sepete ekleyebilir, favorilere alabilir, kategorilere göre filtreleme yapabilir ve ürün detaylarını görüntüleyebilir.
 
