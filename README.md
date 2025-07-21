@@ -28,3 +28,6 @@ jQuery
 
 Fake Store API
 → https://fakestoreapi.com/products
+
+
+![aaaaa](https://github.com/user-attachments/assets/3679ec17-afd5-4012-857d-7b277415eaa4)
